@@ -30,7 +30,7 @@ As referências completas estão no relatório em PDF.
 
 Você pode acessar o relatório em PDF clicando aqui:
 
-[📥 Clique para abrir o PDF](https://github.com/maria-eduarda-goncalves-dias/Relat-rio-de-An-lise-tica-IA-na-Modera-o-de-Conte-do-em-Redes-Sociais/blob/main/Relat%C3%B3rio%20de%20An%C3%A1lise%20%C3%89tica%20IA%20na%20Modera%C3%A7%C3%A3o%20de%20Conte%C3%BAdo%20em%20Re.pdf?raw=true)
+[📥 Clique para abrir o PDF](https://raw.githubusercontent.com/maria-eduarda-goncalves-dias/Relatorio_IA/main/Relat%C3%B3rioIA.pdf)
 
 ---
 
